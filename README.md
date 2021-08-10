@@ -13,12 +13,12 @@ Documentation for the framework can be found on the [Lumen website](https://lume
 
 ## NOTE
 
-composer create-project --prefer-dist laravel/lumen lumen-rest-api
-php -S localhost:8000 -t public 
-php artisan migrate 
-php artisan migrate:rollback
-php artisan make:migration create_produk_table
-php artisan make:migration create_users_table
+* composer create-project --prefer-dist laravel/lumen lumen-rest-api
+* php -S localhost:8000 -t public 
+* php artisan migrate 
+* php artisan migrate:rollback
+* php artisan make:migration create_produk_table
+* php artisan make:migration create_users_table
 
 ## Contributing
 
